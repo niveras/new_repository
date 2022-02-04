@@ -1,1 +1,1 @@
- n
+{{ record.content|markdown }}
